@@ -9,10 +9,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Title: Sarah and Bronwyn's website
+# Sarah and Bronwyn's website
 
-Bronwyn [github site](https://github.com/bronwynbutcher)
+[Bronwyn's github site](https://github.com/bronwynbutcher)
 
-![Bronwyn Butcher](images/Bronwyn_lab.jpg){width="500"}
+[Sarah's github site](https://github.com/slawhun)
 
-Sarah
+<center>
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_K6ot4x1CGZ6xJryRHEj92-E00ThAQSmNw&usqp=CAU)
