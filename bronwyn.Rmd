@@ -1,20 +1,24 @@
 ---
-title: "bronwyn"
-author: "Bronwyn"
-date: "2023-02-15"
+title: "All about Bronwyn"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## All about Bronwyn
-
--   I am the lab manager of the Evolutionary Biology Lab at the Cornell Lab of Ornithology.
+-   I am the lab manager of the Fuller Evolutionary Biology Lab at the Cornell Lab of Ornithology. [Lab website](https://lovette.eeb.cornell.edu/)
 
 -   I am originally from Cape Town, South Africa.
 
--   In the winter I spend a lot of time skiing.
+    <center>
 
--   I have just started volunteering at the Greek Peak Adaptive Ski program and am loving it.
+    ![](https://media.nature.com/lw1024/magazine-assets/d41586-018-07205-3/d41586-018-07205-3_16227608.jpg)
+
+-   In the winter I like to spend time skiing with my family
+
+    <center>
+
+    ![](images/IMG_7849.jpg){width="200"}![](images/IMG_7929.jpg){width="112"}
+
+-   Our pets include Gopher (our beagle/basset), Mojo (the old lady cat of the house), 6 ducks and a couple of guinea pigs!
+
+    <center>
+
+    ![](images/IMG_7952.jpg){width="200"}![](images/IMG_6648.jpg){width="200"}![](images/IMG_4530%202.jpg){width="200"}
