@@ -11,7 +11,7 @@ output: html_document
 
     ![](https://media.nature.com/lw1024/magazine-assets/d41586-018-07205-3/d41586-018-07205-3_16227608.jpg)
 
--   In the winter I like to spend time skiing with my family
+-   In the winter I like to spend time skiing with my family.
 
     <center>
 
