@@ -1,0 +1,20 @@
+---
+title: "bronwyn"
+author: "Bronwyn"
+date: "2023-02-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## All about Bronwyn
+
+-   I am the lab manager of the Evolutionary Biology Lab at the Cornell Lab of Ornithology.
+
+-   I am originally from Cape Town, South Africa.
+
+-   In the winter I spend a lot of time skiing.
+
+-   I have just started volunteering at the Greek Peak Adaptive Ski program and am loving it.
